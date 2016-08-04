@@ -1,7 +1,8 @@
 [![My LinkedIn Profile](https://cdn2.hubspot.net/hub/76244/file-30458908-jpg/images/linkedin_logo_small1.jpg)](https://cn.linkedin.com/in/elsa-wang-0ba1b2a7)
 
-<p align="right" style="padding:0px; margin:0px">
+<p align="right">
 __Email:__ <elsa.w1990@gmail.com>
+<br />
 __Tel:__ +86 13804140031&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -61,8 +62,6 @@ __Tel:__ +86 13804140031&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   _Global Awareness_
   * Share a house and get along well with friends from Vietnam and Bangladesh during master study
   * Have many friends from different cultures and countries
-
----
 
 #### Skills
 - __IT__
