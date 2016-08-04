@@ -1,4 +1,4 @@
-[![My LinkedIn Profile](https://cdn2.hubspot.net/hub/76244/file-30458908-jpg/images/linkedin_logo_small1.jpg)](https://cn.linkedin.com/in/elsa-wang-0ba1b2a7)
+[![My LinkedIn Profile](https://cdn2.hubspot.net/hub/76244/file-30458908-jpg/images/linkedin_logo_sub1.jpg)](https://cn.linkedin.com/in/elsa-wang-0ba1b2a7)
 
 <p align="right">
 <b>Email:</b> <a href="mailto:elsa.w1990@gmail.com">elsa.w1990@gmail.com</a>
@@ -8,39 +8,39 @@
 
 <h2 align="center">
  Elsa
- <small>王一舒</small>
+ <sub>王一舒</sub>
 </h2>
 
 #### Education
 
-- __MSc Work and Organisational Psychology__ | <small>2014 - 2015</small>
-  > <small>University of Nottingham, UK</small>
+- __MSc Work and Organisational Psychology__ | <sub>2014 - 2015</sub>
+  > <sub>University of Nottingham, UK</sub>
 
   * Graded with Merit
   * Specialty of Psychology Test and Recruitment
   * BPS [The Register of Qualifications in Test Use (RQTU)](https://ptc.bps.org.uk/register-qualifications-test-use-rqtu?qs=311299&ret=Wang)
 
-- __MD Traditional Chinese Medicine__ | <small>2009 - 2014</small>
-  > <small>Liaoning University of Traditional Chinese Medicine, China</small>
+- __MD Traditional Chinese Medicine__ | <sub>2009 - 2014</sub>
+  > <sub>Liaoning University of Traditional Chinese Medicine, China</sub>
 
   * Graded with GPA 85%
   * Class Representative - Organise PE and Art activity
 
 #### Work Experience
 
-- __Translator (Part-time)__ | <small>01,2016 - Current</small>
+- __Translator (Part-time)__ | <sub>01,2016 - Current</sub>
   > Vilnat SL
 
   I'm glad to work for this Spanish company, which has years of experience of trading meat with China. I translate contracts and products information to help the company attract more opportunity.
 
-- __Marketing Executive (Part-time)__ | <small> 07,2015 - 11,2015 </small>
+- __Marketing Executive (Part-time)__ | <sub> 07,2015 - 11,2015 </sub>
   > Energy Savings UK
 
   It was a enjoyable experience to work for _Mark Nangle_ and his company. I'm grateful to have this chance to join in a environment-concerned company and learn __marketing__ skills. My main duties in this position are:
   - Manage online social media - Facebook and Twitter.
   - Edit and Design promotional material - leaflet, post, brochure and presentation .
 
-- __Intern__ | <small>03,2013 - 01, 2014</small>
+- __Intern__ | <sub>03,2013 - 01, 2014</sub>
   > Benxi Hospital of Traditional Chinese Medicine
 
   A rare learning experience and challenging time. My mentor was Yan LUO - a famous and welcomed expert. It was a trully challenge to assist she to treat average _30_ patients, some days more than _50_ each morning, and handle the paperwork each day. I advanced my professional abilities and learnt how to __manage work stress__ through this experience. What's more was to learn to __listen__ and __empathising__ people sincerely。
