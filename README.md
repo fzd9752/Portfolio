@@ -1,9 +1,9 @@
 [![My LinkedIn Profile](https://cdn2.hubspot.net/hub/76244/file-30458908-jpg/images/linkedin_logo_small1.jpg)](https://cn.linkedin.com/in/elsa-wang-0ba1b2a7)
 
 <p align="right">
-__Email:__ <elsa.w1990@gmail.com>
+<b>Email:</b> <a href="mailto:elsa.w1990@gmail.com">elsa.w1990@gmail.com</a>
 <br />
-__Tel:__ +86 13804140031&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Tel:</b> +86 13804140031&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">
