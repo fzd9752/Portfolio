@@ -8,20 +8,20 @@
 
 <h2 align="center">
  Elsa
- <sub>王一舒</sub>
+ 王一舒
 </h2>
 
 #### Education
 
 - __MSc Work and Organisational Psychology__ | <sub>2014 - 2015</sub>
-  > <sub>University of Nottingham, UK</sub>
+  > University of Nottingham, UK
 
   * Graded with Merit
-  * Specialty of Psychology Test and Recruitment
+  * Speciality of Psychology Test and Recruitment
   * BPS [The Register of Qualifications in Test Use (RQTU)](https://ptc.bps.org.uk/register-qualifications-test-use-rqtu?qs=311299&ret=Wang)
 
 - __MD Traditional Chinese Medicine__ | <sub>2009 - 2014</sub>
-  > <sub>Liaoning University of Traditional Chinese Medicine, China</sub>
+  > Liaoning University of Traditional Chinese Medicine, China
 
   * Graded with GPA 85%
   * Class Representative - Organise PE and Art activity
@@ -36,14 +36,14 @@
 - __Marketing Executive (Part-time)__ | <sub> 07,2015 - 11,2015 </sub>
   > Energy Savings UK
 
-  It was a enjoyable experience to work for _Mark Nangle_ and his company. I'm grateful to have this chance to join in a environment-concerned company and learn __marketing__ skills. My main duties in this position are:
+  It was an enjoyable experience to work for _Mark Nangle_ and his company. I'm grateful to have this chance to join in an environment-concerned company and learn __marketing__ skills. My main duties in this position are:
   - Manage online social media - Facebook and Twitter.
   - Edit and Design promotional material - leaflet, post, brochure and presentation .
 
 - __Intern__ | <sub>03,2013 - 01, 2014</sub>
   > Benxi Hospital of Traditional Chinese Medicine
 
-  A rare learning experience and challenging time. My mentor was Yan LUO - a famous and welcomed expert. It was a trully challenge to assist she to treat average _30_ patients, some days more than _50_ each morning, and handle the paperwork each day. I advanced my professional abilities and learnt how to __manage work stress__ through this experience. What's more was to learn to __listen__ and __empathising__ people sincerely。
+  A rare learning experience and challenging time. My mentor was Yan LUO - a famous and welcomed expert. It was a challenge to assist she to treat average _30_ patients, some days more than _50_ each morning, and handle the paperwork each day. I advanced my professional abilities and learnt how to __manage work stress__ through this experience. What's more was to learn to __listen__ and __empathising__ people sincerely。
 
 ---
 
@@ -55,7 +55,7 @@
   * As a leader to attend the Challenge Cup of Business Plan  and win the third award
 - __Learning & Problem-Solving__
   _Learn fast and broadly_
-  * Self-study Psychology undergrate courses and convert subject to it at the master level
+  * Self-study Psychology undergraduate courses and convert subject to it at the master level
   * Self-study math to attend Mathematical Modelling Competitions with team and win the third awards twice [2012](http://wenku.baidu.com/view/a14dba380912a2161479292a.html) [2013](http://www.madio.net/article-394.html)
   * Complete several MOOCs of Data Science and Web Development and still learn further
 - __Openness__
@@ -75,7 +75,7 @@
 | MS Office | Master |
 | Prezi | Master |
 | __Design__ |
-| Photoshop | Intermdediate |
+| Photoshop | Intermediate |
 
 - __Language__
 
