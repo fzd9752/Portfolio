@@ -1,8 +1,10 @@
 [![My LinkedIn Profile](https://cdn2.hubspot.net/hub/76244/file-30458908-jpg/images/linkedin_logo_small1.jpg)](https://cn.linkedin.com/in/elsa-wang-0ba1b2a7)
+
 <p align="right" style="padding:0px; margin:0px">
 __Email:__ <elsa.w1990@gmail.com>
 __Tel:__ +86 13804140031&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 <h2 align="center">
  Elsa
  <small>王一舒</small>
@@ -26,17 +28,20 @@ __Tel:__ +86 13804140031&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Work Experience
 
 - __Translator (Part-time)__ | <small>01,2016 - Current</small>
-  _Vilnat SL_     
+  > Vilnat SL
+
   I'm glad to work for this Spanish company, which has years of experience of trading meat with China. I translate contracts and products information to help the company attract more opportunity.
 
 - __Marketing Executive (Part-time)__ | <small> 07,2015 - 11,2015 </small>
-  _Energy Savings UK_
+  > Energy Savings UK
+
   It was a enjoyable experience to work for _Mark Nangle_ and his company. I'm grateful to have this chance to join in a environment-concerned company and learn __marketing__ skills. My main duties in this position are:
-  - Manage online social media -- Facebook and - Twitter.
-  - Edit and Design promotional material -- leaflet, post, brochure and presentation .
+  - Manage online social media - Facebook and Twitter.
+  - Edit and Design promotional material - leaflet, post, brochure and presentation .
 
 - __Intern__ | <small>03,2013 - 01, 2014</small>
-  _Benxi Hospital of Traditional Chinese Medicine_
+  > Benxi Hospital of Traditional Chinese Medicine
+
   A rare learning experience and challenging time. My mentor was Yan LUO - a famous and welcomed expert. It was a trully challenge to assist she to treat average _30_ patients, some days more than _50_ each morning, and handle the paperwork each day. I advanced my professional abilities and learnt how to __manage work stress__ through this experience. What's more was to learn to __listen__ and __empathising__ people sincerely。
 
 ---
@@ -56,6 +61,8 @@ __Tel:__ +86 13804140031&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   _Global Awareness_
   * Share a house and get along well with friends from Vietnam and Bangladesh during master study
   * Have many friends from different cultures and countries
+
+---
 
 #### Skills
 - __IT__
