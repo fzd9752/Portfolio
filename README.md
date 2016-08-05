@@ -5,11 +5,17 @@
  王一舒
 </h2>
 
+
+I'm looking for an opportunity to work in a creative an socially-responisble organisation.
+I'll be also grateful for the chance to get back to campus for Data Science or Psychology area.
+<d1 style="color:white; cursor: not-allowed;">~~I'm going to Change the World !~~ </d1> :smile:
+
+
+
 <p align="right"><b>Email:</b> <a href="mailto:elsa.w1990@gmail.com">elsa.w1990@gmail.com</a>
 </p>
 
-
-
+---
 
 ### Education
 
@@ -25,6 +31,8 @@
 
   * Graded with GPA 85%
   * Class Representative - Organise PE and Art activity
+
+---
 
 ### Work Experience
 
@@ -43,7 +51,7 @@
 - __Intern__ <sub>03,2013 - 01, 2014</sub>
   > Benxi Hospital of Traditional Chinese Medicine
 
-  Treat average *40* patients each morning and handle a large number papers work every day. Learn how to __manage time effectively__ and __control work press__
+  Treat average *40* patients each morning and handle a large number paper work every day. Learn how to __manage time effectively__ and __control work press__
   <br \>
   More vital is to know how to __listening actively__ and __empathising__ people sincerely.  
 
@@ -64,6 +72,7 @@
   * Self-study Psychology undergraduate courses and convert subject to it at the master level
   * Self-taught Programming and Data Science, currently focus on Web Development [Learning Path]()
 
+---
 
 ### Skills
 - __IT__
