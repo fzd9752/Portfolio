@@ -7,7 +7,9 @@
 
 
 I'm looking for an opportunity to work in a creative an socially-responisble organisation.
+<br />
 I'll be also grateful for the chance to get back to campus for Data Science or Psychology area.
+<br />
 <d1 style="color:white; cursor: not-allowed;">~~I'm going to Change the World !~~ </d1> :smile:
 
 

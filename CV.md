@@ -1,8 +1,3 @@
-<p align="right" style="display:none"><b>Email:</b> <a href="mailto:elsa.w1990@gmail.com">elsa.w1990@gmail.com</a>
-<br />
-<b>Tel:</b> +86 13804140031</p>
-
-
 <h2 align="center">
  Elsa
  王一舒
