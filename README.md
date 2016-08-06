@@ -5,12 +5,12 @@
  王一舒
 </h2>
 
-
+~~I'm going to Change the World !~~ :smile:
 I'm looking for an opportunity to work in a creative an socially-responisble organisation.
 <br />
 I'll be also grateful for the chance to get back to campus for Data Science or Psychology area.
 <br />
-<d1 style="color:white; cursor: not-allowed;">~~I'm going to Change the World !~~ </d1> :smile:
+
 
 
 
@@ -53,7 +53,7 @@ I'll be also grateful for the chance to get back to campus for Data Science or P
 - __Intern__ <sub>03,2013 - 01, 2014</sub>
   > Benxi Hospital of Traditional Chinese Medicine
 
-  Treat average *40* patients each morning and handle a large number paper work every day. Learn how to __manage time effectively__ and __control work press__
+  Treat average *40* patients each morning and handle a large number paper work every day. Learn how to __manage time effectively__ and __control work pressure__
   <br \>
   More vital is to know how to __listening actively__ and __empathising__ people sincerely.  
 
@@ -66,11 +66,11 @@ I'll be also grateful for the chance to get back to campus for Data Science or P
   * Lead team complete a medicine efficiency research supported by Province Government
   * As a leader to attend the Challenge Cup of Business Plan  and win the third award
 
-- __Problem-Solving__ *Modal thinking*
+- __Problem-Solving__ *Model thinking*
 
   * Attend Mathematical Modelling Competitions without math background and win the third awards twice [2012](http://wenku.baidu.com/view/a14dba380912a2161479292a.html) [2013](http://www.madio.net/article-394.html)
 
-- __Learning__ *Learn fast and broadly*
+- __Learning__ *Fast and broadly*
   * Self-study Psychology undergraduate courses and convert subject to it at the master level
   * Self-taught Programming and Data Science, currently focus on Web Development [Learning Path]()
 

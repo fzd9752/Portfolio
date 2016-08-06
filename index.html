@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
     <title>Resume</title>
+
   </head>
 
   <body>
@@ -18,7 +19,10 @@
         <header class="inner">
           <a id="forkme_banner" href="https://github.com/fzd9752/Resume">View on GitHub</a>
 
-          <h1 id="project_title">Resume</h1>
+          <h1 id="project_title"
+              onmouseover="this.innerHTML='Seeking Adoption @_@'"
+              onmouseout="this.innerHTML='Seriously, a JOB!'"> Looking for a Job </h1>
+
           <h2 id="project_tagline"></h2>
 
             <section id="downloads">
@@ -39,7 +43,12 @@
  王一舒
 </h2>
 
-<del style="color:white; cursor: not-allowed;">I'm going to Change the World !</del>  <g-emoji alias="smile" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>
+<span style="visibility:hidden; " id="obj" ><b>
+  I'm going to Change the World !</b></span>
+  <g-emoji alias="smile" style="cursor: wait;"
+  onmouseover="showHide()"
+  onmouseout="changeHide()"
+  fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>
 <p>I'm looking for an opportunity to work in a creative an socially-responisble organisation.
 <br>
 I'll be also grateful for the chance to get back to campus for Data Science or Psychology area.
@@ -231,11 +240,13 @@ More vital is to know how to <strong>listening actively</strong> and <strong>emp
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <p class="copyright">Resume maintained by <a href="https://github.com/fzd9752">fzd9752</a></p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        <p>Modified with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
 
-    
+
+    <script src="javascripts/main.js"></script>
 
   </body>
+
 </html>

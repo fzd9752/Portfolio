@@ -122,3 +122,9 @@ SOFTWARE.
   color: #1d3e81;
 }
 
+#obj {
+    background: -webkit-linear-gradient(to right, red, orange, yellow, green, aqua, lightblue, violet);
+    background: -o-linear-gradient(to right, red, orange, yellow, green, aqua, lightblue, violet);
+    background: -moz-linear-gradient(to right, red, orange, yellow, green, aqua, lightblue, violet);
+    background: linear-gradient(to right, red, orange, yellow, green, aqua, lightblue, violet)
+}
