@@ -25,7 +25,7 @@ function showHide()
 
     else if (count < 6){
       header.style.visibility='visible';
-      alert("OK...You can see it FOREVER!!");
+      alert("Alright...Now.You can see it FOREVER!!");
     }
     else if (count < 7 ){
       setTimeout(function(){

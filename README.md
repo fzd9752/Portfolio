@@ -4,17 +4,16 @@
  Elsa
  王一舒
 </h2>
+~~I'm going to Change the World!~~ 😄
 
-~~I'm going to Change the World !~~ :smile:
-I'm looking for an opportunity to work in a creative an socially-responisble organisation.
+I'm looking for an opportunity to work in a creative an socially-responisble organisation. 
+
+I'll be also grateful for the chance to get back to campus for Data Science or Psychology area. 
 <br />
-I'll be also grateful for the chance to get back to campus for Data Science or Psychology area.
+
+<p align="right">
+<b>Email:</b> <a href="mailto:elsa.w1990@gmail.com">elsa.w1990@gmail.com</a>
 <br />
-
-
-
-
-<p align="right"><b>Email:</b> <a href="mailto:elsa.w1990@gmail.com">elsa.w1990@gmail.com</a>
 </p>
 
 ---
@@ -72,7 +71,7 @@ I'll be also grateful for the chance to get back to campus for Data Science or P
 
 - __Learning__ *Fast and broadly*
   * Self-study Psychology undergraduate courses and convert subject to it at the master level
-  * Self-taught Programming and Data Science, currently focus on Web Development [Learning Path]()
+  * Self-taught Programming and Data Science, currently focus on Web Development [Learning Path](https://prezi.com/jtlffievwuel/my-life-long-learning/#)
 
 ---
 
@@ -82,7 +81,7 @@ I'll be also grateful for the chance to get back to campus for Data Science or P
 |  __Programming& Data Analyst__ | *Level*   | __Office Software__ |*Level*   | __Design__ |*Level*   |
 | :-------------: | :-------------: | :-------------: |:-------------: | :-------------: | :-------------: |
 | R       | Intermediate  |MS Office | Master | Photoshop | Intermediate |
-| SPSS | Master |Prezi | Master |
+| SPSS | Master |Prezi | Master | [Web Development] (https://fzd9752.github.io/Coursera-Full-Stack-Web-Development/)| Beginner |
 | Python | Beginner |
 
 

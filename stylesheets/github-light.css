@@ -128,3 +128,11 @@ SOFTWARE.
     background: -moz-linear-gradient(to right, red, orange, yellow, green, aqua, lightblue, violet);
     background: linear-gradient(to right, red, orange, yellow, green, aqua, lightblue, violet)
 }
+
+tr td {
+  vertical-align: middle;
+}
+
+tr th {
+  vertical-align: middle;
+}
